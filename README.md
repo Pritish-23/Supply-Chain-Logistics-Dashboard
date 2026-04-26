@@ -11,7 +11,9 @@ rate, late orders and profit margin across global operations.
 
 ## Dataset
 Source: DataCo Supply Chain Dataset
+
 Platform: Kaggle
+
 Link: https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
 
 Download the dataset from the link above and run 
